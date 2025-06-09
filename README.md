@@ -32,11 +32,12 @@ Food Delivery Web App
 
 
 Output:
-RegisterPage[]
+RegisterPage[Screenshot 2025-06-09 123412.png]
 HomePage[Screenshot 2025-06-09 123222.png]
-MenuPage[]
-Cart[]
-Order Success[]
+
+MenuPage[Screenshot 2025-06-09 123412.png]
+Cart[Screenshot 2025-06-09 123412.png]
+Order Success[Screenshot 2025-06-09 123412.png]
 
 
 
