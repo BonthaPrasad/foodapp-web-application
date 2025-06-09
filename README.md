@@ -1,5 +1,7 @@
 Food Delivery Web App
 -->A full-stack web application to browse restaurants, view menus, add food to cart, and place orders — built using Java, JSP, Servlets, and MySQL.
+
+ 
  ✨ Features
 
 - ✅ User Registration and Login
