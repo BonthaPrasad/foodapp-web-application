@@ -35,7 +35,7 @@ Output:
 RegisterPage[Screenshot 2025-06-09 123412.png]
 HomePage[Screenshot 2025-06-09 123222.png]
 
-MenuPage[Screenshot 2025-06-09 123412.png]
+MenuPage[Screenshot 2025-06-09 123513.png]
 Cart[Screenshot 2025-06-09 123412.png]
 Order Success[Screenshot 2025-06-09 123412.png]
 
