@@ -40,10 +40,10 @@ HomePage[Screenshot 2025-06-09 123222.png]
 MenuPage[Screenshot 2025-06-09 123513.png]
 
 
-Cart[Screenshot 2025-06-09 123412.png]
+Cart[Screenshot 2025-06-09 123546.png]
 
 
-Order Success[Screenshot 2025-06-09 123412.png]
+Order Success[Screenshot 2025-06-09 123646.png]
 
 
 
