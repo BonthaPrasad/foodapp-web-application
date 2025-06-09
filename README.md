@@ -23,6 +23,14 @@ Food Delivery Web App
 | Web Server  | Apache Tomcat                  |
 | IDE         | Eclipse                        |
 | Pattern     | MVC + DAO                      |
+
+
+
+
+
+
+
+
 Output:
 RegisterPage[]
 HomePage[Screenshot 2025-06-09 123222.png]
